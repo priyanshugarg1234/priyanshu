@@ -1,5 +1,5 @@
 # priyanshu
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://lh3.googleusercontent.com/OStd8LGbcaDs12Yo0UslVKBbdqslk1dJjJubdN80xD3bOk_vQHipNeBYkkdXMkoPYC2XY2f1D7LFtIa2YYNHzw1k=s1280-w1280-h800)
 ## Greetings! ✨
 
 Welcome to my GitHub profile! I'm **priyanshu garg**, a dedicated **MERN Stack developer** with a passion for creating impactful solutions and continuously expanding my skills in the ever-evolving world of technology.
