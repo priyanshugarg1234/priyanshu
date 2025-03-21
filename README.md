@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I'm **priyanshu garg**, a dedicated **MERN Stack d
 
 ##  Skills & Tools:
 <p align="left" margin-bottom="2rem">
-<li>
-<ul>
   
   <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <br>
@@ -58,8 +56,7 @@ Welcome to my GitHub profile! I'm **priyanshu garg**, a dedicated **MERN Stack d
   <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <br>
   <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</ul>
-</li>
+
 </p>
 
 
